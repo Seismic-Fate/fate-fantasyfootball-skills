@@ -16,3 +16,7 @@ leagues.md
 # Test artifacts
 __pycache__/
 *.pyc
+
+# Personal per-league working directories — real league and team names, keep local
+leagues/*
+!leagues/README.md
